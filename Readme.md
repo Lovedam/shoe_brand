@@ -1,0 +1,1 @@
+Trained imagenet pretrained model on predicting shoe brand using fastai. The model was able to achieve 96% accuracy. The image was collected from google image using the search query for each brand.
